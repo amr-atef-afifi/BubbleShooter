@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BubbleShooterGame</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_level_chooser">LevelChooser</string>
+    <string name="content_description">icon</string>
+    <string name="title_activity_game_play">GamePlayActivity</string>
+
+</resources>
